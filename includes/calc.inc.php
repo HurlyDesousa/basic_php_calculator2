@@ -1,11 +1,11 @@
 <?php
 
 class Calc {
-/*
+
   public $num1;
   public $num2;
   public $cal;
-*/
+
   public function __construct($num1, $num2, $cal) {
     $this->num1 = $num1;
     $this->num2 = $num2;
